@@ -1,0 +1,16 @@
+{
+    "$schema": "./manifest.schema.json",
+    "packages": [
+        "fontawesome5",
+        "preprint",
+        "titlesec",
+        "marvosym",
+        "enumitem",
+        "etoolbox",
+        "hyperref",
+        "fancyhdr",
+        "fontaxes",
+        "lato",
+        "xkeyval"
+    ]
+}
