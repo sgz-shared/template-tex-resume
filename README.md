@@ -7,11 +7,17 @@ _\*Please note that the value of this template is in the dev setup; not the actu
 
 ## Option 1: (Recommened) Via Github Codespaces
 1. Create a repo from this template repo. _**(not fork)!!!**_
-2. Create a Github Codespace. And open the container in the IDE of your choice. **VsCode STRONGLY RECOMMENDED!!!** (Specifically VsCode web for ease of use.)
+
+   ![image](https://github.com/user-attachments/assets/b808de1c-b0e1-45d1-95a8-3a6477038702)
+
+3. Create a Github Codespace. And open the container in the IDE of your choice. **VsCode STRONGLY RECOMMENDED!!!** (Specifically VsCode web for ease of use.)
   ![image](https://github.com/user-attachments/assets/97c3fb46-7856-483b-aff2-83eb94752545)
 
 ## Option 2: Via Local Docker Dev Containers (Recommended if you run out of Codespace compute hours)
 1. Create a repo from this template repo. _**(not fork)!!!**_
+
+  ![image](https://github.com/user-attachments/assets/35476c03-9c16-4322-8822-cc7eeb618880)
+
 2. Clone your repo to your machine.
 3. Make sure Docker Desktop is installed on your machine and the docker Daemon is running.
 4. Open IDE that supports devcontainers. (**VS Code Strongly Recommended. Extensions have only been validated for VsCode!!!!**)
