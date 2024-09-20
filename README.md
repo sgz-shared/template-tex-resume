@@ -2,6 +2,7 @@
 
 This is a simple template for a tex-based resume. This is not my template. (I don't remember where I got it from.) But I adopted it to live as a git repo with a codepsace config. If you own the original format, please let me know and I'll give the appropariate accredition :)
 
+_\*Please note that the value of this template is in the dev setup; not the actual formatting itself!\*_
 # Setup
 
 ## Option 1: (Recommened) Via Github Codespaces
